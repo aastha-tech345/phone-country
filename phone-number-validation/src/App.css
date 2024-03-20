@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-tel-input {
+  width: 30% !important;
+}
+
+.number {
+  margin-right: 40% !important;
+}
